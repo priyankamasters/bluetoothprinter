@@ -1,0 +1,7 @@
+#Wed Feb 15 17:20:56 IST 2017
+base.0=D\:\\PRIYANKA\\SAMPLE PROJECTS\\P25Demo-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_4c4937bf3927a51059bfcbe0f3003e8a1538a402
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=D\:\\PRIYANKA\\SAMPLE PROJECTS\\P25Demo-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_451a85b24097e2eb570b1f73be0bec11cb62adac\\classes.dex
+base.1=D\:\\PRIYANKA\\SAMPLE PROJECTS\\P25Demo-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_451a85b24097e2eb570b1f73be0bec11cb62adac
+file.0=D\:\\PRIYANKA\\SAMPLE PROJECTS\\P25Demo-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_4c4937bf3927a51059bfcbe0f3003e8a1538a402\\classes.dex
